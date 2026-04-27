@@ -12,9 +12,3 @@ A sophisticated Python-based cryptanalysis system that uses Artificial Intellige
 - 📈 **Confidence Scoring**: Quantitative measure of decryption success
 - 🌐 **Web Interface**: User-friendly Flask web application
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/ai-cryptanalysis-tool.git
-cd ai-cryptanalysis-tool
